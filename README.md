@@ -1,3 +1,3 @@
 # hello-world
-initial
+initial;
 Ben is dusting off his programming skills
